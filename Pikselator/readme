@@ -6,7 +6,7 @@ I choose C# language, since it is pretty easy to build simple front-end and not 
 
 User can choose what library should the application use to develop pixelated bitamp. Either C# or MASM.
 Another possibility that a user have is to change the level of pixelization. It means how much "blured" should the picture be.
-Application is compatible with multi-threadig. There is a possibility to choose how many maximum threads should the program use.
+Application is compatible with multi-threading. There is a possibility to choose how many maximum threads should the program use.
 Process of pixelation is divided in tasks, and the threads that are free to work choose task to do.
 
 In order to be able to implement Assembly funcionality I was forced to learn about how Bitamp file format is working. To be exact: what each and every byte is representing,
