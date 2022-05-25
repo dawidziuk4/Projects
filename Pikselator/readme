@@ -12,7 +12,7 @@ Process of pixelation is divided in tasks, and the threads that are free to work
 In order to be able to implement Assembly funcionality I was forced to learn about how Bitamp file format is working. To be exact: what each and every byte is representing,
 an how it should be modified to get a successfull outcome.
 
-While doing this project I learned that the high-level programming languages are the blessing for every programmer. Nearly 160 lines of ASM code can be shorten to around 35 in C#.
+While doing this project I learned that the high-level programming languages are the blessing for every programmer. Nearly 160 lines of ASM code can be shortend to around 35 in C#.
 Although the application while working on ASM library can be in some cases a bit quicker, choosing between number of used threads gives a bigger difference.
 
 If you want to run this app, make sure you open Pikselator\Pikselator\bin\Release\Pikselator. Feel free to use this project. :-)
