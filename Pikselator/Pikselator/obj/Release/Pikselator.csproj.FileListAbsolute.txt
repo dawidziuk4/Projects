@@ -1,0 +1,10 @@
+C:\Users\dawid\source\repos\Pikselator\Pikselator\obj\Release\Pikselator.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\Pikselator\Pikselator\obj\Release\Pikselator.Form1.resources
+C:\Users\dawid\source\repos\Pikselator\Pikselator\obj\Release\Pikselator.Properties.Resources.resources
+C:\Users\dawid\source\repos\Pikselator\Pikselator\obj\Release\Pikselator.csproj.GenerateResource.cache
+C:\Users\dawid\source\repos\Pikselator\Pikselator\obj\Release\Pikselator.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Pikselator\Pikselator\obj\Release\Pikselator.exe
+C:\Users\dawid\source\repos\Pikselator\Pikselator\obj\Release\Pikselator.pdb
+C:\Users\dawid\source\repos\Pikselator\Pikselator\bin\Release\Pikselator.exe.config
+C:\Users\dawid\source\repos\Pikselator\Pikselator\bin\Release\Pikselator.exe
+C:\Users\dawid\source\repos\Pikselator\Pikselator\bin\Release\Pikselator.pdb

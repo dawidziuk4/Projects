@@ -1,0 +1,6 @@
+﻿  Assembling main.asm...
+main.asm(27): warning A6004: procedure argument or local not referenced : hInstDLL
+main.asm(27): warning A6004: procedure argument or local not referenced : reason
+main.asm(27): warning A6004: procedure argument or local not referenced : reserved1
+     Trwa tworzenie biblioteki C:\Users\dawid\source\repos\Pikselator\Debug\PiksASMator.lib i obiektu C:\Users\dawid\source\repos\Pikselator\Debug\PiksASMator.exp
+  PiksASMator.vcxproj -> C:\Users\dawid\source\repos\Pikselator\Debug\PiksASMator.dll

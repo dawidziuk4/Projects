@@ -1,0 +1,4 @@
+﻿  functions.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnls.h(2855): warning C4042: "unnamed-parameter": ma złą klasę magazynu
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winnls.h(2865): warning C4042: "unnamed-parameter": ma złą klasę magazynu
+  PikselatorCpp.vcxproj -> C:\Users\dawid\source\repos\Pikselator\Debug\PikselatorCpp.dll
